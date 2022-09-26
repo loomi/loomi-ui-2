@@ -15,7 +15,7 @@
     "isolatedModules": true,
     "declaration": true,
     "jsx": "react-jsx",
-    "outDir": "./lib"
+    "outDir": "lib"
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
